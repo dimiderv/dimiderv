@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dejvi Dervishi</h1>
 <h3 align="center">A passionate full stack blockchain engineer from Montreal</h3>
-<img align="right"  alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjl0aXl3ZDB4a2Zvczg0bzlwM3c0MHZpZTd1dng0OWRrOXR5YTJkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
+
 
 
 - 🔭 I’m currently working on [Full Stack traceability application on Hyperldger Fabric](https://github.com/dimiderv/Traceability_SupplyChain)
