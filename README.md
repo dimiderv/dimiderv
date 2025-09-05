@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=dimiderv)
 <h1 align="center">Hi 👋, I'm Dejvi Dervishi</h1>
 <h3 align="center">A passionate full stack blockchain engineer from Montreal</h3>
 
