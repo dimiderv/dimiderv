@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=dimiderv)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center">Hi 👋, I'm Dejvi Dervishi</h1>
 <h3 align="center">A passionate full stack blockchain engineer from Montreal</h3>
 
